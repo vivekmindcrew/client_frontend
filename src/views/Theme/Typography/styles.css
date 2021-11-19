@@ -1,0 +1,758 @@
+.chargeTile{
+  word-break: word-break !important;  
+  padding-right: 10%;
+}
+.tileicon{
+  font-size: 60px !important;
+   color: white; 
+   width: 60px;
+} 
+.MuiTableCell-paddingNone {
+  padding-left: 10px !important;
+}
+
+@media screen and (min-width: 0px) and (max-width: 320px) { 
+  .tileicon{
+    font-size: 35px !important;
+  }
+  .l-container {
+    height: auto !important;
+    padding-right: 30px!important;
+    width: 260px!important;
+  }
+  .lastContainer{
+    height: auto !important;
+    padding-right: 20px!important;
+  }
+  .chargeTile{
+    font-size: 13px !important;
+    width: 150px;
+    margin-top: -20px;
+  }
+  .chargeTile1{
+    font-size: 13px !important;
+    width: 150px;
+    position: relative;
+    top: -20px;
+  }
+  .Imgtileicon{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    
+  }
+  .pos{
+    position: relative;
+    left: 25px;
+    top: -20px;
+    
+  }
+  .pos2 { 
+    color: whitesmoke;
+    position: relative;
+    top: -24px !important;
+    width: 130px;
+    margin-left: 20px;
+    left: 15px;
+  }
+  .pos3 { 
+    position: relative;
+    top: -20px;
+    left: 25px;
+    color: whitesmoke;
+  } 
+}
+
+
+@media screen and (min-width: 321px) and (max-width: 375px) { 
+  .tileicon{
+    font-size: 35px !important;
+  }
+  .l-container {
+    height: auto !important;
+    padding-right: 20px!important;
+    width: 260px!important; 
+  }
+  .lastContainer{
+    height: auto !important;
+    padding-right: 20px!important;
+  }
+  .chargeTile{
+    font-size: 13px !important;
+    width: 300px;
+    margin-top: -20px;
+  }
+  .chargeTile1{
+    font-size: 13px !important;
+    width: 100px;
+    position: relative;
+    top: -20px;
+  }
+  .Imgtileicon{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    
+  }
+  .pos{
+    position: relative;
+    left: 25px;
+    top: -20px;
+    
+  }
+  .pos2 { 
+    color: whitesmoke;
+    position: relative;
+    top: -24px !important;
+    width: 130px;
+    margin-left: 20px;
+    left: 15px;
+  }
+  .pos3 { 
+    position: relative;
+    top: -20px;
+    left: 25px;
+    color: whitesmoke;
+  } 
+}
+
+@media screen and (min-width: 376px) and (max-width: 425px) { 
+  .tileicon{
+    font-size: 35px !important;
+  }
+  .l-container {
+    height: auto !important;
+    padding-right: 20px!important;
+    
+  }
+  .lastContainer{
+    height: auto !important;
+    padding-right: 20px!important;
+  }
+  .chargeTile{
+    font-size: 13px !important;
+    width: 300px;
+    margin-top: -20px;
+  }
+  .chargeTile1{
+    font-size: 13px !important;
+    width: 200px;
+    position: relative;
+    top: -20px;
+  }
+  .Imgtileicon{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    
+  }
+  .pos{
+    position: relative;
+    left: 25px;
+    top: -20px;
+    
+  }
+  .pos2 { 
+    color: whitesmoke;
+    position: relative;
+    top: -24px !important;
+    width: 130px;
+    margin-left: 20px;
+    left: 15px;
+  }
+  .pos3 { 
+    position: relative;
+    top: -20px;
+    left: 25px;
+    color: whitesmoke;
+  } 
+}
+
+@media screen and (min-width: 426px) and (max-width: 575px) { 
+  .tileicon{
+    font-size: 35px !important;
+  }
+  .l-container {
+    height: auto !important;
+    padding-right: 20px!important;
+    
+  }
+  .lastContainer{
+    height: auto !important;
+    padding-right: 20px!important;
+  }
+  .chargeTile{
+    font-size: 13px !important;
+    width: 300px;
+    margin-top: -20px;
+  }
+  .chargeTile1{
+    font-size: 13px !important;
+    width: 200px;
+    position: relative;
+    top: -20px;
+  }
+  .Imgtileicon{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    
+  }
+  .pos{
+    position: relative;
+    left: 25px;
+    top: -20px;
+    
+  }
+  .pos2 { 
+    color: whitesmoke;
+    position: relative;
+    top: -24px !important;
+    width: 130px;
+    margin-left: 20px;
+    left: 15px;
+  }
+  .pos3 { 
+    position: relative;
+    top: -20px;
+    left: 25px;
+    color: whitesmoke;
+  } 
+}
+
+
+@media screen and (min-width: 576px) and (max-width: 700px) {
+  .tileicon{
+    font-size: 35px !important;
+  }
+  .l-container {
+    height: auto !important;
+    padding-right: 20px!important;
+    
+  }
+  .lastContainer{
+    height: auto !important;
+    padding-right: 20px!important;
+  }
+  .Imgtileicon{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    
+  }
+  .chargeTile{
+    font-size: 13px !important;
+    position: relative;
+    top: -7px;
+    /* background-color: red; */
+    width: 100px;
+  }
+  .chargeTile1{
+    font-size: 13px !important;
+    position: relative;
+    top: -7px;
+    left: -20px;
+    /* background-color: red; */
+    width: 100px;
+  }
+  
+  .pos{
+    position: relative;
+    top: -21px !important;
+    left: 25px;
+    
+  }
+  .pos2 { 
+    color: whitesmoke;
+    position: relative;
+    top: -30px !important;
+    width: 130px;
+    margin-left: 19px;
+    left: 15px;
+  }
+  .pos3 { 
+    position: relative;
+    top: -20px;
+    left: 25px;
+    color: whitesmoke;
+  } 
+}
+@media screen and (min-width: 701px) and (max-width: 800px) {
+  .tileicon{
+    font-size: 35px !important;
+  }
+  .l-container {
+    height: auto !important;
+    padding-right: 20px!important;
+    
+  }
+  .lastContainer{
+    height: auto !important;
+    padding-right: 20px!important;
+  }
+  .Imgtileicon{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    
+  }
+  .chargeTile{
+    font-size: 14px !important;
+    position: relative;
+    top: -7px;
+    /* background-color: red; */
+   
+    width: 100px;
+  }
+  .chargeTile1{
+    font-size: 14px !important;
+    position: relative;
+    top: -7px;
+    /* background-color: red; */
+   
+    width: 100px;
+  }
+  .pos{
+    position: relative;
+    top: -23px !important;
+    left: 25px;
+  }
+  .pos2 { 
+    color: whitesmoke;
+    position: relative;
+    top: -30px !important;
+    width: 130px;
+    margin-left: 25px;
+    font-size: 17px;
+    left: 15px;
+  }
+  .pos3 { 
+    color: whitesmoke;
+    position: relative;
+    top: -20px;
+    left: 25px;
+    width: 170px;
+  } 
+}
+
+
+@media screen and (min-width: 801px) and (max-width: 832px) {
+  .tileicon{
+    font-size: 35px !important;
+  }
+  .l-container {
+    height: auto !important;
+    padding-right: 20px!important;
+    
+  }
+  .lastContainer{
+    height: auto !important;
+    padding-right: 20px!important;
+  }
+  .Imgtileicon{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+    
+  }
+  .chargeTile{
+    font-size: 15px !important;
+    position: relative;
+    top: -7px;
+    /* background-color: red; */
+    width: 100px;
+  }
+  .chargeTile1{
+    font-size: 15px !important;
+    position: relative;
+    top: -7px;
+    /* background-color: red; */
+    width: 100px;
+  }
+  .pos{
+    position: relative;
+    top: -23px !important;
+    left: 25px;
+  }
+  .pos2 { 
+    color: whitesmoke;
+    position: relative;
+    top: -30px !important;
+    width: 130px;
+    margin-left: 25px;
+    font-size: 17px;
+    left: 15px;
+  }
+  .pos3 { 
+    color: whitesmoke;
+    position: relative;
+    top: -20px;
+    left: 25px;
+  } 
+}
+
+@media screen and (min-width: 833px) and (max-width: 990px) {
+  .tileicon{
+    font-size: 35px !important;
+  }
+  .Imgtileicon{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+  }
+  .l-container {
+    height: auto !important;
+    padding-right: 20px!important;
+    
+  }
+  .lastContainer{
+    height: auto !important;
+    padding-right: 20px!important;
+  }
+
+  .chargeTile{
+    font-size: 16px !important;
+    position: relative;
+    top: -7px;
+    /* background-color: red; */
+    width: 150px;
+  }
+  .chargeTile1{
+    font-size: 16px !important;
+    position: relative;
+    top: -7px;
+    /* background-color: red; */
+    width: 150px;
+  }
+  .pos{
+    position: relative;
+    top: -23px !important;
+    left: 25px;
+  }
+  .pos2 { 
+    color: whitesmoke;
+    position: relative;
+    top: -30px !important;
+    width: 130px;
+    margin-left: 25px;
+    font-size: 17px;
+    left: 15px;
+  }
+  .pos3 { 
+    color: whitesmoke;
+    position: relative;
+    top: -20px;
+    left: 25px;
+    width: 170px;
+  } 
+}
+
+
+@media screen and (min-width: 991px) and (max-width: 1024px) {
+  .tileicon{
+    font-size: 35px !important;
+  }
+  .Imgtileicon{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+  }
+  .l-container {
+    height: auto !important;
+    padding-right: 20px!important;
+    
+  }
+  .lastContainer{
+    height: auto !important;
+    padding-right: 20px!important;
+  }
+  .chargeTile{
+    font-size: 17px !important;
+    position: relative;
+    top: -7px;
+    /* background-color: red; */
+    
+    width: 100px;
+  }
+  .chargeTile1{
+    font-size: 17px !important;
+    position: relative;
+    top: -7px;
+    
+    /* background-color: red; */
+    width: 100px;
+  }
+  .pos{
+    position: relative;
+    top: -23px !important;
+    left: 25px;
+    /* background-color: red; */
+  }
+  .pos2 { 
+    color: whitesmoke;
+    position: relative;
+    top: -30px !important;
+    width: 130px;
+    margin-left: 25px;
+    font-size: 17px;
+    left: 15px;
+  }
+  .pos3 { 
+    color: whitesmoke;
+    position: relative;
+    top: -20px;
+    left: 25px;
+    /* background-color: red; */
+    width: 170px;
+  } 
+}
+
+
+@media screen and (min-width: 1025px) and (max-width: 1102px) {
+  .tileicon{
+    font-size: 35px !important;
+  }
+  .Imgtileicon{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+  }
+  .l-container {
+    height: auto !important;
+    padding-right: 20px!important;
+    
+  }
+  .lastContainer{
+    height: auto !important;
+    padding-right: 20px!important;
+  }
+
+  .chargeTile{
+    font-size: 18px !important;
+    position: relative;
+    top: -7px;
+    /* background-color: red; */
+    width: 150px;
+  }
+  .chargeTile1{
+    font-size: 17px !important;
+    position: relative;
+    top: -7px;
+   
+    /* background-color: red; */
+    width: 200px;
+  }
+  .pos{
+    position: relative;
+    top: -23px !important;
+    left: 25px;
+    /* background-color: red; */
+  }
+  .pos2 { 
+    color: whitesmoke;
+    position: relative;
+    top: -30px !important;
+    width: 130px;
+    margin-left: 25px;
+    font-size: 17px;
+    left: 15px;
+  }
+  .pos3 { 
+    color: whitesmoke;
+    position: relative;
+    top: -20px;
+    left: 25px;
+    /* background-color: red; */
+    width: 170px;
+  } 
+}
+
+@media screen and (min-width: 1102px) and (max-width: 1280px) {
+  .tileicon{
+    font-size: 35px !important;
+  }
+  .Imgtileicon{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+  }
+  .l-container {
+    height: auto !important;
+    padding-right: 20px!important;
+    
+  }
+  .lastContainer{
+    height: auto !important;
+    padding-right: 20px!important;
+  }
+
+  .chargeTile{
+    font-size: 19px !important;
+    position: relative;
+    top: -7px;
+    
+    width: 150px;
+  }
+  .chargeTile1{
+    font-size: 17px !important;
+    position: relative;
+    top: -7px;
+   
+    /* background-color: red; */
+    width: 200px;
+  }
+  .pos{
+    position: relative;
+    top: -23px !important;
+    left: 25px;
+    /* background-color: red; */
+  }
+  .pos2 { 
+    color: whitesmoke;
+    position: relative;
+    top: -30px !important;
+    width: 130px;
+    margin-left: 25px;
+    font-size: 17px;
+    left: 15px;
+  }
+  .pos3 { 
+    color: whitesmoke;
+    position: relative;
+    top: -20px;
+    left: 25px;
+    /* background-color: red; */
+    width: 200px;
+  } 
+}
+
+
+@media screen and (min-width: 1281px) and (max-width: 1920px) {
+  .tileicon{
+    font-size: 35px !important;
+  }
+  .Imgtileicon{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+  }
+  .l-container {
+    height: auto !important;
+    padding-right: 20px!important;
+    
+  }
+  .lastContainer{
+    height: auto !important;
+    padding-right: 20px!important;
+  }
+  .chargeTile{
+    font-size: 20px !important;
+    position: relative;
+    top: -7px;
+    
+    width: 150px;
+  }
+  .chargeTile1{
+    font-size: 17px !important;
+    position: relative;
+    top: -7px;
+   
+    /* background-color: red; */
+    width: 200px;
+  }
+  .pos{
+    position: relative;
+    top: -23px !important;
+    left: 25px;
+    /* background-color: red; */
+  }
+  .pos2 { 
+    color: whitesmoke;
+    position: relative;
+    top: -30px !important;
+    width: 130px;
+    margin-left: 25px;
+    font-size: 17px;
+    left: 15px;
+  }
+  .pos3 { 
+    color: whitesmoke;
+    position: relative;
+    top: -20px;
+    left: 25px;
+    /* background-color: red; */
+    width: 200px;
+  } 
+}
+
+
+
+
+
+
+
+
+
+
+
+.l-container {
+  margin-right: 25px;
+  height: 120px;
+  padding-top: 7px;
+}
+
+.MuiTableCell-body {
+  font-weight: 100;
+}
+
+.extra-con {
+  padding-top: 10px;
+}
+
+.lastContainer {
+  padding-top: 10px;
+  height: 120px;
+}
+
+.png {
+  filter: brightness(0) invert(1);
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+
+.title-container {
+  padding: 0;
+}
+
+.pos {
+  /* position: relative;
+  left: 3rem;
+  bottom: 63px;
+  color: whitesmoke; */
+ margin-top: -14px;
+ color: whitesmoke;
+}
+
+
+
+.pos3 {
+  /* position: relative;
+  left: 3.5rem;
+  bottom: 63px; */
+  /* display: inline;
+  color: whitesmoke;
+  margin-top: -50px; */
+  margin-top: -17px;
+  margin-left: 6px;
+}
+
+.editFonts {
+  font-family: 'Poppins', sans-serif;
+  line-height: 4;
+}
+
+.headColor {
+  background-color: #3E5B77;
+
+}
